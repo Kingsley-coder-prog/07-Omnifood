@@ -176,7 +176,7 @@ body {
   border-radius: 9px;
   font-weight: 600;
 
-  /* Only applicable for .btn */
+  /* Only necessary for .btn */
   border: none;
   cursor: pointer;
   font-family: inherit;
