@@ -63,7 +63,8 @@ The Foodie website is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- LinkedIn - [https://www.linkedin.com/in/nwankwo-ifeanyi]([https://www.linkedin.com/in/nwankwo-ifeanyi-170018150/](https://www.linkedin.com/in/ifeanyi-kingsley-nwankwo-307298348/))
+
+- LinkedIn - [https://www.linkedin.com/in/ifeanyi-kingsley-nwankwo-307298348/](https://www.linkedin.com/in/ifeanyi-kingsley-nwankwo-307298348/)
 - Twitter - [@benzene_10](@benzene_10)
 ###### Thank you for your interest in the Foodie website. Let's indulge in the world of flavors together!
 
